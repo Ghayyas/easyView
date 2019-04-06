@@ -1,0 +1,39 @@
+ion-content{
+    --background: #80808054;
+}
+.bg-white{
+    background: white; 
+}
+.heart{
+    float: right;
+    font-size: 38px;
+    margin-top: -43px;
+    color: red;
+}
+.icon-font{
+    font-size: 15px;
+}
+.detail{
+    border-bottom: 1px solid gray;
+    padding-left: 10px;
+}
+.pad-right{
+    padding-top: 1px;
+}
+.pad-detail{
+    padding-left: 10px;
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+.bottom-tabs{
+    position: absolute;
+    bottom: 0;
+}
+.email{
+    background: black;
+    color: white;
+    padding: 16px;
+}
+.call{
+    padding: 16px;
+}

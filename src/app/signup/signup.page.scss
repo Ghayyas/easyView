@@ -1,0 +1,18 @@
+ion-content{
+    background-color: black;
+}
+ion-item{
+    --background: transparent;
+    --color	: white;
+    --border-color: var(--ion-color-light, #fff);
+    --highlight-color-focused: var(--ion-color-light, #fff);
+    
+}
+
+ion-button{
+    height: 50px;
+    width: 240px;
+}
+.button-class{
+    margin-left: 26px;
+}
